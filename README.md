@@ -1,13 +1,13 @@
 # Devices & Layout
 
-* Teensy v3.2
+* [Teensy v3.2](https://www.pjrc.com/store/teensy32.html)
 
-    ![](https://dl.dropboxusercontent.com/u/24437878/screenshots/1e2d453b-e1d1-42eb-bca9-d7479318d5dd.png)
+    ![](https://raw.githubusercontent.com/stevenvo/mpuarduino/master/images/2015-11-02_00-13-24.jpg)
  
 
 * [MPU-9250 breakout board](http://www.amazon.com/Diymall%C2%AE-Mpu-9250-Nine-axis-Attitude-Acceleration/dp/B0)
 
-    ![](https://dl.dropboxusercontent.com/u/24437878/screenshots/a3a113d5-9b5b-40e5-8872-36bff48f9ed8.png)
+    ![](https://raw.githubusercontent.com/stevenvo/mpuarduino/master/images/2015-11-02_00-07-31.jpg)
     
 * The wiring layout is quite simple:
     ```
